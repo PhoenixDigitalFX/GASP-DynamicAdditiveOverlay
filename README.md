@@ -1,4 +1,4 @@
-# GASP_DynamicAdditiveOverlay v1.29
+# GASP_DynamicAdditiveOverlay v1.30
 
 # Requirements
 Read My License, you can distribute this software but I require my License to be Distributed with it, this is how you credit me for the work I have put into this project. This License is effective 10/11/2024, going forward anyone who uses this project is bound by law to this new License. If you plan on redistributing it you must include my License even if you modify or extend my base.
