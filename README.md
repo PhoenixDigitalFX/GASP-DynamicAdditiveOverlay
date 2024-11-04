@@ -1,9 +1,9 @@
 # GASP_DynamicAdditiveOverlay v1.30
 
-#Licensing Information
+# Licensing Information
 My open-source project is licensed under [BSD 3-Clause License], which requires the inclusion of my copyright notice in derivative works. If you would prefer an alternative licensing arrangement that does not include this requirement, please contact me to discuss purchasing a commercial license that doesn't include that.
 
-#Exclusive Licensing Offer
+# Exclusive Licensing Offer
 For clients seeking a tailored solution, I offer an exclusive license that exempts you from including my open-source license, provided specific terms are met. This includes full payment for all work rendered. 
 This means that if we come to an agreement and sign a contract I will reserve the right to withdrawal this exclusive license if you decide not to pay me for work rendered.
 
